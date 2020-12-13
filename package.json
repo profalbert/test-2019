@@ -17,6 +17,6 @@
     }
   },
   "workspaces": {
-    "packages": ["frontend/*"]
+    "packages": ["frontend/*", "backend/*"]
   }
 }
